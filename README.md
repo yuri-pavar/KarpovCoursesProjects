@@ -1,2 +1,2 @@
 # KarpovCoursesProjects
-My educational projects during my studying at the karpov.courses
+My educational projects during studying at the karpov.courses
